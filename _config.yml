@@ -5,7 +5,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 title:            Sebastien Allgeyer
 locale:           en_US
 #ANU
-url:  http://people.rses.anu.edu.au/allgeyer_s
+url:  https://seballgeyer.github.io/allgeyer_s.github.io/
 #Test Localhost
 email: sebastien.allgeyer@gmail.com
 skype: blabla
@@ -19,6 +19,9 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+
+plugins:
+  - jekyll-remote-theme
 
 kramdown:
   auto_ids: true
