@@ -1,5 +1,7 @@
 # Site wide configuration
 
+remote_theme: "mmistakes/minimal-mistakes"
+
 title:            Sebastien Allgeyer
 locale:           en_US
 #ANU
